@@ -11,3 +11,7 @@
 #### ERD.V2 - 최소 기본 ERD 설계 끝 
 <img width="994" alt="스크린샷 2022-12-27 오전 12 40 36" src="https://user-images.githubusercontent.com/66197538/209564587-d27830c9-5b3e-4b97-b77a-bde98dd4bc80.png">
 
+------------------------------------
+
+#### ERD.V3 - 공지사항 추가, 구현 준비(추후 추가) 
+<img width="1097" alt="스크린샷 2022-12-28 오후 11 40 00" src="https://user-images.githubusercontent.com/66197538/209828857-7321f307-68d1-4933-8c69-c2f400dfe178.png">
